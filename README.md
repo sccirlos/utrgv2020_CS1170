@@ -7,7 +7,7 @@ Today, we will review the tools we will be using for the laboratory this semeste
 
 - Visual Studio (Community edition) 
   
-     - [ ] Create a hello world program
+     - Create a hello world program
  
 
 - [Repl.it](https://repl.it)
