@@ -3,6 +3,14 @@ Friday 08/28
 
 # Hello Vaqueros and welcome to CSCI 1170! 
 
+###### Teacher Assistants:
+  - Charlie Ticer 
+  
+  
+  - Sonya Cirlos 
+  
+  
+
 Today, we will review the tools we will be using for the laboratory this semester. 
 
 - Visual Studio (Community edition) 
