@@ -12,8 +12,8 @@
  
   - Sonya Cirlos 
   
-    - Email: 
-    - Discord: 
+    - Email: sonya.cirlos01@utrgv.edu
+    - Discord: Sonya Cirlos#8146
   
 ## Agenda: 
 
