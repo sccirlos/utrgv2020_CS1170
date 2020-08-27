@@ -11,7 +11,7 @@ Today we will review the tools we will be using for the laboratory this semester
 
 - Rep.it https://repl.it
 
- > Upload program
- > Run program 
- > Learn interaction features
+ - [ ] Upload program
+ - [ ] Run program 
+ - [ ] Learn interaction features
 
