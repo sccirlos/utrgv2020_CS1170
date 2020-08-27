@@ -36,6 +36,6 @@ Today, we will review the tools we will be using for the laboratory this semeste
            - assignment submission
                   
                   
-     
-
+                  
+## Send us a message if you have any questions! 
 
