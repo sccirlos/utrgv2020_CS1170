@@ -1,16 +1,23 @@
 
-Friday 08/28
 
 # Hello Vaqueros and welcome to CSCI 1170! 
 
 
-Teacher Assistants:
+### Teacher Assistants:
+
   - Charlie Ticer 
-  
-  
+    
+    - Email
+    - Discord
+ 
   - Sonya Cirlos 
   
+    - Email: 
+    - Discord: 
   
+## Agenda: 
+
+Friday, 08/27
 
 Today, we will review the tools we will be using for the laboratory this semester. 
 
