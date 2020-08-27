@@ -9,5 +9,9 @@ Today we will review the tools we will be using for the laboratory this semester
   
  > Students will create a hello world program
 
-- Rep.it 
+- Rep.it https://repl.it
+
+ > Upload program
+ > Run program 
+ > Learn interaction features
 
