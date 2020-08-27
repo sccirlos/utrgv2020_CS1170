@@ -3,7 +3,7 @@ Friday 08/28
 
 # Hello Vaqueros and welcome to CSCI 1170! 
 
-### Teacher Assistants:
+## Teacher Assistants:
   - Charlie Ticer 
   
   
