@@ -12,12 +12,12 @@ Today, we will review the tools we will be using for the laboratory this semeste
 
 - [Repl.it](https://repl.it)
 
-     - [ ] Upload program
-     - [ ] Run program 
-     - [ ] Learn interaction features with TAs
-           - How to show TAs your code 
-               - during lab sessions
-               - assignment submission
+     - Upload program
+     - Run program 
+     - Learn interaction features with TAs
+         - How to show TAs your code 
+         - during lab sessions
+         - assignment submission
                   
                   
      
