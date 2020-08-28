@@ -29,7 +29,7 @@ Today, we will review the tools we will be using for the laboratory this semeste
 - Join the [UTRGV Computer Science Discord](https://discord.gg/VNhhrrF) server: 
 
 - [Visual Studio (Community edition)](https://visualstudio.microsoft.com/downloads/) --> Windows 
-- Xcode or Visual Studio Code (blue logo) --> Mac (:movie_camera:'how to' videos will be uploaded by next week)
+- [Xcode](https://apps.apple.com/us/app/xcode/id497799835?mt=12) or [Visual Studio Code (blue logo)](https://code.visualstudio.com/download) --> Mac            (:movie_camera:'how to' videos will be uploaded by next week)
   
      - Create a hello world program
  
