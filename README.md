@@ -1,7 +1,4 @@
 
-Join the Discord server: https://discord.gg/VNhhrrF
-
-
 # Hello Vaqueros and welcome to CSCI 1170! 
 
 
@@ -22,6 +19,8 @@ Join the Discord server: https://discord.gg/VNhhrrF
 Friday, 08/27
 
 Today, we will review the tools we will be using for the laboratory this semester. 
+
+- Join the Discord server: https://discord.gg/VNhhrrF
 
 - Visual Studio (Community edition) 
   
