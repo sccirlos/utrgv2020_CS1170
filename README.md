@@ -1,4 +1,6 @@
 
+Join the Discord server: https://discord.gg/VNhhrrF
+
 
 # Hello Vaqueros and welcome to CSCI 1170! 
 
