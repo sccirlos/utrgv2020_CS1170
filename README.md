@@ -9,12 +9,12 @@
 
 ### Teacher Assistants:
 
-  - Charlie Ticer 
+   Charlie Ticer 
     
     - Email: charlie.ticer01@utrgv.edu
     - Discord: secretply#6705
  
-  - Sonya Cirlos 
+   Sonya Cirlos 
   
     - Email: sonya.cirlos01@utrgv.edu
     - Discord: Sonya Cirlos#8146
@@ -29,11 +29,13 @@ Today, we will review the tools we will be using for the laboratory this semeste
 - Join the [UTRGV Computer Science Discord](https://discord.gg/VNhhrrF) server: 
 
 - [Visual Studio (Community edition)](https://visualstudio.microsoft.com/downloads/) --> Windows 
+
 - [Xcode](https://apps.apple.com/us/app/xcode/id497799835?mt=12) or [Visual Studio Code (blue logo)](https://code.visualstudio.com/download) --> Mac            (:movie_camera:'how to' videos will be uploaded by next week)
-  
-     - Create a hello world program
  
+
+ Note: If you already familiar with a C++ compiling IDE, go ahead and use it for any out of laboratory assignments. Whatever is comfortable for you. We want to prepare you for future CS courses. 
  
+
 
 :sparkles: For in Laboratory assignments: Please use Repl.it! :sparkles:
 
