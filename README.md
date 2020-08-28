@@ -51,13 +51,13 @@ Today, we will review the tools we will be using for the laboratory this semeste
            - during lab sessions
            - assignment submission
                   
-## I will be making a short video on how to use Visual Studio Code on Mac! I will post it before Thursday next week. You can also watch some youtube videos on set up! Here are some good ones: 
+## :movie_camera: We will be making a short video on how to use Visual Studio Code on Mac! I will post it to Discord before Thursday next week. You can also watch some Youtube videos on set up! :movie_camera:
+
+### Here are some good ones: 
 
 
 
 
-               
-               
            
 ### Send us a message if you have any questions! 
 
