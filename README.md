@@ -27,7 +27,8 @@ Today, we will review the tools we will be using for the laboratory this semeste
      - Create a hello world program
  
  
- For in laboratory assignments: Please use Repl.it! :sparkles:
+ 
+:sparkles: For in laboratory assignments: Please use Repl.it! :sparkles:
 
 - [Repl.it](https://repl.it)
 
