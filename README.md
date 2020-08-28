@@ -1,4 +1,4 @@
-<img src="" width="300px" height="auto">
+<img src="" width="200px" height="auto">
 
 # Hello Vaqueros and welcome to CSCI 1170! :partying_face:
 
@@ -51,7 +51,7 @@ Today, we will review the tools we will be using for the laboratory this semeste
            - during lab sessions
            - assignment submission
                   
-# I will be making a short video on how to use Visual Studio Code on Mac! I will post it before Thursday next week. You can also watch some youtube videos on set up! Here are some good ones: 
+## I will be making a short video on how to use Visual Studio Code on Mac! I will post it before Thursday next week. You can also watch some youtube videos on set up! Here are some good ones: 
 
 
 
