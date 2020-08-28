@@ -1,7 +1,7 @@
 <img src="utrgv2020_CS1170/utrgv pic.jpeg" width="250px" height="auto">
 
 <img src="utrgv2020_CS1170/eieab-2.jpg" width="300px" height="auto">
-*We miss our building, but the nerding must go on!* 
+
 
 
 # Hello Vaqueros and welcome to CSCI 1170! :partying_face:
