@@ -33,7 +33,7 @@ Today, we will review the tools we will be using for the laboratory this semeste
 - [Xcode](https://apps.apple.com/us/app/xcode/id497799835?mt=12) or [Visual Studio Code (blue logo)](https://code.visualstudio.com/download) --> Mac            (:movie_camera:'how to' videos will be uploaded by next week)
  
 
- Note: If you already familiar with a C++ compiling IDE, go ahead and use it for any out of laboratory assignments. Whatever is comfortable for you. We want to prepare you for future CS courses. 
+ Note: If you are already familiar with a C++ compiling IDE, go ahead and use it for any out of laboratory assignments. Whatever is comfortable for you. We want to prepare you for future CS courses. 
  
 
 
