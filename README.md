@@ -1,5 +1,5 @@
 
-# Hello Vaqueros and welcome to CSCI 1170! :vaquero:
+# Hello Vaqueros and welcome to CSCI 1170! :partying_face:
 
 
 ### Teacher Assistants:
