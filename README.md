@@ -1,12 +1,12 @@
 
-# Hello Vaqueros and welcome to CSCI 1170! 
+# Hello Vaqueros and welcome to CSCI 1170! :vaquero:
 
 
 ### Teacher Assistants:
 
   - Charlie Ticer 
     
-    - Email
+    - Email: charlie.ticer01@utrgv.edu
     - Discord: secretply#6705
  
   - Sonya Cirlos 
@@ -26,6 +26,8 @@ Today, we will review the tools we will be using for the laboratory this semeste
   
      - Create a hello world program
  
+ 
+ For in laboratory assignments: Please use Repl.it! :sparkles:
 
 - [Repl.it](https://repl.it)
 
