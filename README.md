@@ -1,4 +1,7 @@
-<img src="utrgv pic.jpeg" width="200px" height="auto">
+<img src="utrgv pic.jpeg" width="250px" height="auto">
+
+<img src="eieab-2.jpg" width="300px" height="auto">
+
 
 # Hello Vaqueros and welcome to CSCI 1170! :partying_face:
 
@@ -18,12 +21,14 @@
 ## Agenda: 
 
 # Friday, 08/27
+Our lectures will be recorded and uploaded to Blackboard 
 
 Today, we will review the tools we will be using for the laboratory this semester. 
 
 - Join the Discord server: https://discord.gg/VNhhrrF
 
-- Visual Studio (Community edition) 
+- Visual Studio (Community edition) --> Windows 
+- Xcode or Visual Studio Code (blue logo) --> Mac (:movie_camera:'how to' videos will be uploaded by next week)
   
      - Create a hello world program
  
@@ -51,9 +56,8 @@ Today, we will review the tools we will be using for the laboratory this semeste
            - during lab sessions
            - assignment submission
                   
-## :movie_camera: We will be making a short video on how to use Visual Studio Code on Mac! I will post it to Discord before Thursday next week. You can also watch some Youtube videos on set up! :movie_camera:
+## :movie_camera: We will be making a short video on how to use Xcode and Visual Studio Code on Mac! I will post it to Discord before Thursday next week. You can also watch some Youtube videos on set up! 
 
-### Here are some good ones: 
 
 
 
