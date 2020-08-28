@@ -25,15 +25,15 @@ Our lectures will be recorded and uploaded to Blackboard
 
 Today, we will review the tools we will be using for the laboratory this semester. 
 
-- Join the Discord server: https://discord.gg/VNhhrrF
+- Join the [UTRGV Computer Science Discord](https://discord.gg/VNhhrrF) server: 
 
-- Visual Studio (Community edition) --> Windows 
+- [Visual Studio (Community edition)](https://visualstudio.microsoft.com/downloads/) --> Windows 
 - Xcode or Visual Studio Code (blue logo) --> Mac (:movie_camera:'how to' videos will be uploaded by next week)
   
      - Create a hello world program
  
  
- 
+
 :sparkles: For in Laboratory assignments: Please use Repl.it! :sparkles:
 
 - [Repl.it](https://repl.it)
@@ -63,5 +63,5 @@ Today, we will review the tools we will be using for the laboratory this semeste
 
 
            
-### Send us a message if you have any questions! 
+### Send us a message if you have any questions!  
 
