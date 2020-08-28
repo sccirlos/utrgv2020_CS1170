@@ -7,7 +7,7 @@
   - Charlie Ticer 
     
     - Email
-    - Discord
+    - Discord: secretply#6705
  
   - Sonya Cirlos 
   
