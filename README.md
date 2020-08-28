@@ -16,7 +16,7 @@
   
 ## Agenda: 
 
-Friday, 08/27
+# Friday, 08/27
 
 Today, we will review the tools we will be using for the laboratory this semester. 
 
