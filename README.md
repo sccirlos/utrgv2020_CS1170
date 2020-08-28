@@ -28,11 +28,22 @@ Today, we will review the tools we will be using for the laboratory this semeste
  
  
  
-:sparkles: For in laboratory assignments: Please use Repl.it! :sparkles:
+:sparkles: For in Laboratory assignments: Please use Repl.it! :sparkles:
 
 - [Repl.it](https://repl.it)
 
-     - Upload program
+    - create new project C++ 
+    - name your project
+    - dedicate a workspace on your machine for this course for easy access and set it as project workspace
+    - dont really need a solution name
+    - click 'create'
+    
+    - default program will pop up with tips on how to run a program (you will learn more later) 
+    - look at the left hand side there are your files in your workspace
+    
+    
+   Next week, we will go through: 
+     - Uploading a program
      - Run program 
      - Learn interaction features with TAs
          - How to show TAs your code:
