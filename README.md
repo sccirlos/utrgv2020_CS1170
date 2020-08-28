@@ -1,4 +1,4 @@
-<img src="" width="200px" height="auto">
+<img src="utrgv pic.jpeg" width="200px" height="auto">
 
 # Hello Vaqueros and welcome to CSCI 1170! :partying_face:
 
