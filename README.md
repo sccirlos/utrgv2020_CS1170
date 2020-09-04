@@ -30,6 +30,19 @@
 
 We will be working on Laboratory 1 and Laboratory 2. 
 Criteria and files for these assignments can be found in Blackboard under 'Assignments'
+
+
+Using Repl.it, 
+  - Upload the files 
+  - Solve the assignments
+  - Run the program 
+  
+  
+  - Learn interaction features with TAs
+      - How to show TAs your code:
+        - during lab sessions
+        - assignment submission
+                  
  
 
 
