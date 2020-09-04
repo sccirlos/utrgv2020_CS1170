@@ -26,14 +26,14 @@
   
 ## Agenda:
 
-# Friday, 09/04
+#  09/04
 
 We will be working on Laboratory 1 and Laboratory 2. 
 Criteria and files for these assignments can be found in Blackboard under 'Assignments'
  
 
 
-# Friday, 08/27
+#  08/27
 Our lectures will be recorded and uploaded to Blackboard 
 
 Today, we will review the tools we will be using for the laboratory this semester. 
