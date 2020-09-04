@@ -3,23 +3,35 @@
 <img src="utrgv2020_CS1170/eieab-2.jpg" width="300px" height="auto">
 
 
-
 # Hello Vaqueros and welcome to CSCI 1170! :partying_face:
-
 
 ### Teacher Assistants:
 
    Charlie Ticer 
-    
+   
+    Office hours: Mondays 2:15PM - 4:15PM
+                  Wednesdays 2:15PM - 4:15PM
+                  
     - Email: charlie.ticer01@utrgv.edu
     - Discord: secretply#6705
  
+
    Sonya Cirlos 
   
+    Office hours: Wednesdays 10:00AM - 12:00PM 
+                  Thursdays 2:00PM - 4:00PM
+                  
     - Email: sonya.cirlos01@utrgv.edu
     - Discord: Sonya Cirlos#8146
   
-## Agenda: 
+## Agenda:
+
+# Friday, 09/04
+
+We will be working on Laboratory 1 and Laboratory 2. 
+Criteria and files for these assignments can be found in Blackboard under 'Assignments'
+ 
+
 
 # Friday, 08/27
 Our lectures will be recorded and uploaded to Blackboard 
@@ -35,7 +47,6 @@ Today, we will review the tools we will be using for the laboratory this semeste
 
  Note: If you are already familiar with a C++ compiling IDE, go ahead and use it for any out of laboratory assignments. Whatever is comfortable for you. We want to prepare you for future CS courses. 
  
-
 
 :sparkles: For in Laboratory assignments: Please use Repl.it! :sparkles:
 
@@ -59,9 +70,7 @@ Today, we will review the tools we will be using for the laboratory this semeste
            - during lab sessions
            - assignment submission
                   
-### :movie_camera: We will be making a short video on how to use Xcode and Visual Studio Code on Mac! I will post it to Discord before Thursday next week. You can also watch some Youtube videos on installation! 
-
-
+### :movie_camera: Still need to upload VScode for Mac users!
 
 
 
